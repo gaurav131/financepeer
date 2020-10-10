@@ -1,0 +1,35 @@
+html, body, #app {
+  height: 100%
+}
+#loginForm{
+  display: block;
+  max-width: 360px;
+  margin: 50px auto;
+  background: rgba(255,255,255,0.7);
+  padding: 20px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 5px;
+}
+#navBar{
+  background-color: rgba(0,0,0,0.3) !important;
+}
+.container{
+  width: 100%;
+  margin: 50px 10px;
+  background-color: white;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.cards{
+  margin: 50px !important;
+  box-shadow:0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+.panel-title{
+  margin: 50px;
+  color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 50px; font-weight: bold; letter-spacing: -1px; line-height: 1;
+}
+.navButton{
+  margin: 5px 10px;
+}
